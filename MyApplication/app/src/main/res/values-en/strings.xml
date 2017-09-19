@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess number!</string>
+    <string name="ahead">Too far!</string>
+    <string name="behind">Too close!</string>
+    <string name="error">Incorrect input!</string>
+    <string name="hit">Bull\'s-eye!</string>
+    <string name="input_value">Enter value</string>
+    <string name="play_more">Play again</string>
+    <string name="try_to_guess">Try to guess number (1 &#8211; 100)</string>
+</resources>
